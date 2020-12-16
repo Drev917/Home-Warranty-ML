@@ -1,4 +1,4 @@
-## Home-Warranty-Renewal
+## Home-Warranty-ML
 ##### Using advanced machine learning algorithms to predict Home Warranty Renewal success.
 
 ### EXECUTIVE SUMMARY
@@ -29,7 +29,7 @@ The most influential factors in predicting renewal rate are due to customer beha
 #### Analytical Overview 
 The provided historical renewal rates by home warranty contracts were examined individually, by month and against each factor to determine if any patterns or associations could be identified. The provided sample was then cleaned to exclude NA values, recode, convert to factors and rename for enhanced clarity.  Multiple statistical models were then created and analyzed to determine the model most likely to accurately predict whether a customer renews or not. 
 
-
+### PROJECT PRESENTATION
 #### Models used:
 - KNN
 - SVM
