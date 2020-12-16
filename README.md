@@ -40,3 +40,10 @@ The provided historical renewal rates by home warranty contracts were examined i
 
 ![ScreenShot](https://github.com/Drev917/Home-Warranty-ML/blob/main/Slides/Slide%201.JPG)
 
+In order to provide a logical step-through of the data we provide an agenda for the analysis:
+
+![ScreenShot](https://github.com/Drev917/Home-Warranty-ML/blob/main/Slides/Slide%202.JPG)
+
+We have already examined the Executive Summary, so let's get into the data. Below variables are immediately identified as being influential to the overall renewal success.
+
+![ScreenShot](https://github.com/Drev917/Home-Warranty-ML/blob/main/Slides/Slide%205.JPG)
