@@ -47,3 +47,14 @@ In order to provide a logical step-through of the data we provide an agenda for 
 We have already examined the Executive Summary, so let's get into the data. Below variables are immediately identified as being influential to the overall renewal success.
 
 ![ScreenShot](https://github.com/Drev917/Home-Warranty-ML/blob/main/Slides/Slide%205.JPG)
+
+We used an assortment of libraries to cleanse, preprocess, shape, and develope ML models on the data.
+
+![ScreenShot](https://github.com/Drev917/Home-Warranty-ML/blob/main/Slides/Slide%206.JPG)
+
+The original data set had over 100k observations. In order to get a sample statistic from which we can make predictions about the population:
+- Identified all NA values
+  - Recoded these observations with the column mean
+- Trimmed observations to a random dataset of 5k rows with a seed number for replication
+
+![ScreenShot](https://github.com/Drev917/Home-Warranty-ML/blob/main/Slides/Slide%207.JPG)
